@@ -14,7 +14,7 @@ p{
 }
 
 div{
-    border: 10px;
+    border: 10px solid black;
     padding: 50px;
     margin: 80px;
 }
