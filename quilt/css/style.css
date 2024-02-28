@@ -1,0 +1,54 @@
+* { 
+  margin: 0; 
+  padding: 0; 
+}
+
+.sea1 {
+    background-color: steelblue;
+    width: 20%;
+    height: 35px;
+    float:left;
+}
+
+.sea2 {
+    background-color: darkturquoise;
+    width: 20%;
+    height: 35px;
+    float:left;
+}
+
+.sea3 {
+    background-color: skyblue;
+    width: 20%;
+    height: 35px;
+    float:left;
+}
+
+
+.sea4 {
+    background-color: paleturquoise;
+    width: 20%;
+    height: 35px;
+    float:left;
+}
+
+.sea5{
+    background-color: azure;
+    width: 20%;
+    height: 35px;
+    float:left;
+}
+
+.whitebox {
+    background-color: cornsilk;
+    width: 10%;
+    height: 35px;
+    float:left;
+}
+
+.beached {
+    background-color: burlywood;
+    width: 10%;
+    height: 35px;
+    float:left;
+}
